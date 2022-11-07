@@ -4,7 +4,7 @@
 
 ##### SQL
 
-<a href_"https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/Online%20Sports.ipynb"> Online sports retails</a> : Optimizing online sports retail revenue
+<a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/Online%20Sports.ipynb"> Online sports retails</a> : Optimizing online sports retail revenue
 
 <a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/usa_baby_names.ipynb"> Baby names in USA</a> : What are the most frequent names in USA between 1920 and 2020 ?
 
