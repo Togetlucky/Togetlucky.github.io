@@ -13,3 +13,7 @@
 <a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/Investigating%20long-term%20relationship%20between%202%20variables.ipynb">Immigration in Belgium</a> : Does immigration play a role in our labour market ?
 
 <a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/Cupping%20therapy.ipynb"> Cupping therapy</a> : Does cupping therapy improve flexion ability of patients ?
+
+#### Python
+
+<a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/World%20Cup.ipynb">World Cup data</a> : Exploring world cup data !
