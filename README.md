@@ -16,4 +16,4 @@
 
 #### Python
 
-<a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/World%20Cup.ipynb">World Cup data</a> : Exploring world cup data !
+<a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/World%20Cup.ipynb">World Cup data</a> : Exploring World Cup data since the beginning !
