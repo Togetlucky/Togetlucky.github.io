@@ -17,3 +17,7 @@
 #### Python
 
 <a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/World%20Cup.ipynb">World Cup data</a> : Exploring World Cup data since the beginning !
+
+#### Bonita BPMN
+
+<a href="https://nbviewer.org/github/Togetlucky/Togetlucky.github.io/blob/main/Business%20process%20design%20Carrefour.pdf">Business Process Management</a> : Business process designing and analysis of Carrefour Supermarkt
