@@ -1,6 +1,6 @@
 # Welcome
 
-### Those projects contain portions of codes of data analysis :
+### Here are a subset of  projects conducted on different softwares:
 
 ##### SQL
 
